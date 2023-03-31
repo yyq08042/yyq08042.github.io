@@ -84,7 +84,7 @@ h2 {
 
 #main_right {
     position: relative;
-    width: 880px;
+    width: 680px;
     margin-left: 20px;
     display: inline-block;
     height: 200px;
@@ -125,7 +125,6 @@ h2 {
 
 #picture img {
     width: 200px;
-    height:160px;
 }
 
 #picture p {
