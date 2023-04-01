@@ -5,8 +5,8 @@
   
   <entry>
     <title>我的第一个静态网页博客——Hexo_Fulid</title>
-    <link href="/project/2023/03/31/hello-world/"/>
-    <url>/project/2023/03/31/hello-world/</url>
+    <link href="/2023/03/31/hello-world/"/>
+    <url>/2023/03/31/hello-world/</url>
     
     <content type="html"><![CDATA[<p>欢迎访问<a href="https://yyq08042.io/">YYQ</a>的第一个博客. 本次博客依赖于hexo架构，其风格为fulid。<br/>参考链接： <a href="https://hexo.io/docs/">documentation</a> . </p><h3 id="一、环境配置"><a href="#一、环境配置" class="headerlink" title="一、环境配置"></a>一、环境配置</h3><p>参考链接：<a href="https://www.bbsmax.com/A/RnJW401r5q/">blog</a></p><h4 id="1、创建一个新blog文章"><a href="#1、创建一个新blog文章" class="headerlink" title="1、创建一个新blog文章"></a>1、创建一个新blog文章</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>更多参考: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h4 id="2、运行服务器，本地浏览"><a href="#2、运行服务器，本地浏览" class="headerlink" title="2、运行服务器，本地浏览"></a>2、运行服务器，本地浏览</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>更多参考: <a href="https://hexo.io/docs/server.html">Server</a></p><h4 id="3、创建本地静态文档"><a href="#3、创建本地静态文档" class="headerlink" title="3、创建本地静态文档"></a>3、创建本地静态文档</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>更多参考: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="二、Markdown编写"><a href="#二、Markdown编写" class="headerlink" title="二、Markdown编写"></a>二、Markdown编写</h3><p>参考链接：<a href="https://github.com/ruanyf/document-style-guide">document</a></p>]]></content>
     
